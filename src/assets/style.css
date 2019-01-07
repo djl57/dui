@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'dui';
+  src:  url('./fonts/dui.eot?pn3iip');
+  src:  url('./fonts/dui.svg?pn3iip#dui') format('svg'),
+    url('./fonts/dui.eot?pn3iip#iefix') format('embedded-opentype'),
+    url('./fonts/dui.ttf?pn3iip') format('truetype'),
+    url('./fonts/dui.woff?pn3iip') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon_"], [class*=" icon_"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dui' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_add:before {
+  content: "\e901";
+}
+.icon_err:before {
+  content: "\e902";
+}
+.icon_prompt:before {
+  content: "\e903";
+}
+.icon_switch_off:before {
+  content: "\e904";
+}
+.icon_switch_on:before {
+  content: "\e905";
+}
+.icon_arrow_dowm:before {
+  content: "\e900";
+}
+.icon_arrow_left:before {
+  content: "\e906";
+}
+.icon_arrow_right:before {
+  content: "\e907";
+}
+.icon_arrow_up:before {
+  content: "\e908";
+}
+.icon_check_yes2:before {
+  content: "\e909";
+}
+.icon_check_yes3:before {
+  content: "\e90a";
+}
+.icon_check_yes1:before {
+  content: "\e90b";
+}
+.icon_check_no:before {
+  content: "\e90c";
+}
+.icon_warn:before {
+  content: "\e90d";
+}
+.icon_warn2:before {
+  content: "\e90e";
+}
+.icon_prompt2:before {
+  content: "\e90f";
+}
+.icon_prompt3:before {
+  content: "\e910";
+}
+.icon_add2:before {
+  content: "\e911";
+}
+.icon_add3:before {
+  content: "\e912";
+}
+.icon_search:before {
+  content: "\e913";
+}
+.icon_trash:before {
+  content: "\e914";
+}
+.icon_trash2:before {
+  content: "\e915";
+}
